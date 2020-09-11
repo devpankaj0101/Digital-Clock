@@ -1,0 +1,30 @@
+body{
+    background-color:black;
+}
+.clock{
+    display: inline-block;
+    position: relative;
+    top: 100px;
+    left: 500px;
+    height: 154px;
+    background-color: black;
+    border: 2px solid black;
+    box-shadow: 1px -1px 20px 20px #2196f3, 0px -1px 0px 9px #ccc;
+}
+p{
+    display: inline-block;
+    position: relative;
+    width:60px;
+    margin-bottom: 0px;
+    border: 2px solid deepskyblue;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'century gothic';
+    text-shadow: 0 0 5px #fff,
+                 0 0 10px #fff,
+                 0 0 20px green,
+                 0 0 30px green,
+                 0 0 40px green,
+                 0 0 55px green,
+                 0 0 70px green;
+}
